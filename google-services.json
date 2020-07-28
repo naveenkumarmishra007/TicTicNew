@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85621937263",
+    "firebase_url": "https://ticticw.firebaseio.com",
+    "project_id": "ticticw",
+    "storage_bucket": "ticticw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85621937263:android:5ef8ae7326309d926ae99a",
+        "android_client_info": {
+          "package_name": "fameWiggle.qboxus.musictok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85621937263-o07rdg9jpo1uu1m98hmtugns7pvkc872.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fameWiggle.qboxus.musictok",
+            "certificate_hash": "cc9a203c48013d940bc160379ab8c20b1360f1d1"
+          }
+        },
+        {
+          "client_id": "85621937263-n5okcmlrpki65g8rhl0ag6g2c3m33phn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg3HVxzsKog3ND4smNvmd3SB-_XL5GztU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85621937263-nk465sq5n8sb3ni09tifrg6plned743b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
